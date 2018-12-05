@@ -1,0 +1,38 @@
+﻿{
+  "name": "TNPSCPortal",
+  "short_name": "TNPSC Portal",
+  "start_url": "https://www.tnpscportal.in/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#1565C0",
+  "description": "TNPSC Portal, A website for TNPSC Exams 2019. Updates Current Affairs, Study Materials, Online Tests for TNPSC Group 4, Group 2A, Group 1, VAO, TRB, TNTET, TNUSRB, TNPSC Portal is an online coaching and guidance website for TNPSC Group IV, VAO, Group 2A, Group 1, TNTET, PGTRB, TNUSRB Sub Inspector, Police Constable Exams"
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s48/tnpsc%2Bportal.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s72/tnpsc%2Bportal.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s96/tnpsc%2Bportal.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s144/tnpsc%2Bportal.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s168/tnpsc%2Bportal.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s192/tnpsc%2Bportal.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-IC2by8Z-rE0/WDlQRdGAJcI/AAAAAAAAALI/Fnx61OV5uYcFR8V419HenKK-ALZkB_PmACLcB/s512/tnpsc%2Bportal.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
